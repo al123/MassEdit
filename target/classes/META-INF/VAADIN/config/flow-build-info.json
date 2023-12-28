@@ -1,0 +1,17 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\NSF\\Documents\\FAA\\Eclipse\\mass-edit-flow-spring",
+  "node.version": "v20.10.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "C:\\Users\\NSF\\Documents\\FAA\\Eclipse\\mass-edit-flow-spring\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\NSF\\Documents\\FAA\\Eclipse\\mass-edit-flow-spring\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\NSF\\Documents\\FAA\\Eclipse\\mass-edit-flow-spring\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\NSF\\Documents\\FAA\\Eclipse\\mass-edit-flow-spring\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\NSF\\Documents\\FAA\\Eclipse\\mass-edit-flow-spring\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\NSF\\Documents\\FAA\\Eclipse\\mass-edit-flow-spring\\frontend\\generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

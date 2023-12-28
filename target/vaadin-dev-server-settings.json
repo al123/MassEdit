@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/NSF/Documents/FAA/Eclipse/mass-edit-flow-spring/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/NSF/Documents/FAA/Eclipse/mass-edit-flow-spring/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/NSF/Documents/FAA/Eclipse/mass-edit-flow-spring/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\NSF\\Documents\\FAA\\Eclipse\\mass-edit-flow-spring\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\NSF\\Documents\\FAA\\Eclipse\\mass-edit-flow-spring\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/NSF/Documents/FAA/Eclipse/mass-edit-flow-spring/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/NSF/Documents/FAA/Eclipse/mass-edit-flow-spring/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/NSF/Documents/FAA/Eclipse/mass-edit-flow-spring/frontend/generated/jar-resources",
+  "themeName": "my-theme",
+  "clientServiceWorkerSource": "C:\\Users\\NSF\\Documents\\FAA\\Eclipse\\mass-edit-flow-spring\\target\\sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
